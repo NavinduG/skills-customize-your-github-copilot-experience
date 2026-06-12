@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sql-basics-sqlite",
+      "title": "SQL Basics with SQLite",
+      "description": "Learn database fundamentals by building a student management system with SQL queries and Python.",
+      "path": "assignments/sql-basics-sqlite",
+      "dueDate": "2026-06-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
